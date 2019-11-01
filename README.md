@@ -4,9 +4,9 @@ Basic Minecraft scripts
 Minecraft Server is run in a screen, named for the directory it's stored in. For these scripts, the minecraft srever's directory is `/srv/direwolf20_164_1025_2019` and the scripts are stored on a mounted disk in `/mnt/minecraft-volume/minecraft-scripts`.
 
 The server's screen is run with it's directory name, like so:
-`cd /srv/direwolf20_164_1025_2019`
-`screen -S direwolf20_164_1025_2019`
-`ServerStart.sh`
+- `cd /srv/direwolf20_164_1025_2019`
+- `screen -S direwolf20_164_1025_2019`
+- `ServerStart.sh`
 
 ## example-crontab lines
 
