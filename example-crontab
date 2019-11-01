@@ -1,0 +1,3 @@
+# m h  dom mon dow   command
+42 */6 * * * /mnt/minecraft-volume/minecraft-scripts/backup-direwolf20_164_1025_2019.sh > /mnt/minecraft-volume/minecraft-scripts/cronbackup.log
+13 3 * * * /mnt/minecraft-volume/minecraft-scripts/scheduled-restart.sh > /mnt/minecraft-volume/minecraft-scripts/cronbackup.log
